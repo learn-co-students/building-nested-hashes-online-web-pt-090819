@@ -1,9 +1,10 @@
 def second_challenge
   epic_tragedy = {
-    :montague => {
+    :montague => {:Romeo}
       #your key/value pairs here!
       }, 
-    :capulet => {
+    :capulet => {:Juliet}
+    epic_tragedy hash "Romeo and Juliet"
       #your key/value pairs here!
       }}
 
